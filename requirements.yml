@@ -1,0 +1,5 @@
+name: django_app
+dependencies:
+  - python=3.10
+  - pip:
+      - django==4.0.3
